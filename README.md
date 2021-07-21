@@ -10,7 +10,6 @@ With Magento 2 Read More Less Description, you can add the "read more/less" feat
 
 * Ability to add the read more/less button on all categories and products pages or separately per particular category and product page.
 * Ability to specify the description height to show the read more button
-* Ability to specify the description height to show the read more button
 * Ability to specify the description selector to enable the read/more less button
 * Mobile-friendly
 * Support multiple-stores
