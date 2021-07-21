@@ -1,9 +1,8 @@
 # Magento 2 Read More Less Description Extension
 
-[Magento 2 Read More Less Description](https://www.ulmod.com/read-more-less-for-magento-2.html)  is a Magento 2 extension that allows you to hide long categories and product descriptions and improve the user experience of your site. Users can expand long category/product description to read and collapse to hide.
+[Magento 2 Read More Less Description](https://www.ulmod.com/read-more-less-for-magento-2.html)  is a Magento 2 extension that allows you to hide long categories and products descriptions by default in the storefront, allowing users can expand long category/product description to read and collapse to hide.
 
-With Magento 2 Read More Less Description, you can add the "read more/less" feature at all categories and product pages or separately to a specific category and product page. 
-
+With Magento 2 Read More Less Description, you can add the "read more/less" feature at all categories and products pages or separately to a specific category and product page. 
 
 <a href="https://www.ulmod.com/read-more-less-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
